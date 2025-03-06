@@ -9,14 +9,14 @@ hero_image_ratio: is-1by1
 ---
 
 # Prénom NOM
-Elève ingénieur en [préciser sa spécialité]
+Elève ingénieur en Prépa intégrée. 
 
 
-Disponible XX mois à partir de Date
+Disponible 3 mois à partir du 16 juin
 
-[Prenom.Nom[at]xxx.com](mailto:Prenom.Nom@xxx.com)
+[mathis.evrard@etu.unilasalle.fr](mailto:mathis.evrard@etu.unilasalle.fr)
 
-[LinkedIn](https://www.linkedin.com/in/Prenom.Nom)
+[LinkedIn](https://www.linkedin.com/in/mathis-evrard-454859240/)
 
 Permis B, voiture
 
