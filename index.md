@@ -5,13 +5,9 @@ description: "Ceci est un exemple de CV que vous pouvez générer par vous-même
 menubar: menu_bar
 hero_image: Screenshot_20250306_163859_Gallery.jpg
 hero_image_alt: Ma photo
-hero_image_ratio: is-1by10
+hero_image_ratio: is-1by1
 ---
-hero image{
-position: absolute;
-    top: 50px; /* 50px depuis le haut */
-    left: 100px; /* 100px depuis la gauche */
-    }
+
 
 # Mathis EVRARD
 Elève ingénieur en Prépa intégrée. 
