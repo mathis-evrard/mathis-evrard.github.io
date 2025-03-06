@@ -1,5 +1,5 @@
 ---
-layout: index
+layout: promo-page
 title: Qui suis-je?
 description: "Ceci est un exemple de CV que vous pouvez générer par vous-même"
 menubar: menu_bar
