@@ -8,24 +8,24 @@ download_cv: assets/docs/Template_CV.pdf
 
 ## Formation 
 
-`20XX – 20XX`
-**Nom de votre école**
+`2024 – 2029`
+UniLaSalle
 
-Elève ingénieur en [préciser la spécialité]
-* Cours : préciser les cours en phase avec le poste visé
+Elève ingénieur 
+* Cours : éléctronique, maths, physique, algorithmique
 
-`20XX – 20XX`
-**DUT [préciser la spécialité]** - Université [préciser le lieu]
-* Cours : préciser les cours en phase avec le poste visé
+`2023 – 2024`
+**PASS** - Université Picardie Jules Verne
+* Cours : Anatomie, science pour l'ingénieur
 
-`20XX`
-Bac [préciser la spécialité], mention éventuelle, Lieu
+`2024`
+Bac [Maths, Physique, SVT], mention Bien, Montreuil-Sur-Mer
 
 ## Expériences
 
-`20XX` **Projet d’étude – préciser le thème du projet**
+`2024` **Projet d’étude – Plaque de cuisson pour malvoyant**
 
-_Réalisé en équipe de XX étudiants_
+_Réalisé en équipe de 2 étudiants_
 * Description des missions (outils utilisés, réalisations, chiffres clés)
 * Description des missions (outils utilisés, réalisations, chiffres clés)
 * Description des missions (outils utilisés, réalisations, chiffres clés)
@@ -46,8 +46,8 @@ _Intitulé du poste dans une équipe de XX membres_
 ## Compétences
 
 Langues
-* LV1 à préciser : niveau à préciser (résultat d’examen)
-* LV2 à préciser : niveau à préciser (résultat d’examen)
+* LV1 (Anglais) : B1 
+* LV2 (Espagnol) : A1
 
 Informatique
 * Logiciels maitrisés
@@ -58,10 +58,8 @@ Autres
 
 ## Centres d’intérêt
 
-Loisirs 1
-* Description 
-* Description 
+Football
+* Pratique en club 
 
-Loisirs 1
-* Description 
-* Description 
+Cuisine
+* Préparer de bons plats
