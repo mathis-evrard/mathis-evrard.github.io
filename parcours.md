@@ -3,7 +3,7 @@ layout: page
 title: Mon parcours
 description: "Ceci est un exemple de CV que vous pouvez générer par vous-même"
 menubar: menu_bar
-download_cv: assets/docs/Template_CV.pdf
+download_cv: CV Evrard Mathis.pdf
 ---
 
 ## Formation 
@@ -47,7 +47,7 @@ Employé polyvalent, 3 mois
 
   `2021` **EARL Dransart, Agriculture BIO, Petite ferme familiale, Gouy-Saint-André, 62870**
 
-Job d'été, travail polyvalent
+Job d'été, travail polyvalent, 2 mois
 * Récolte des différents types fruits et légumes.
 * Travail de déshérbage. 
 * Conditionnement des produits.
