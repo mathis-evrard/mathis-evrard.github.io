@@ -64,11 +64,9 @@ Langues
 * LV2 (Espagnol) : A1
 
 Informatique
-* Logiciels maitrisés
-* Logiciels maitrisés
-
-Autres
-* Autres diplômes ou permis spéciaux
+* Traitement de texte
+* logiciel de calcul( Excel)
+* Langage C, markdown
 
 ## Centres d’intérêt
 
