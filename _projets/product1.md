@@ -4,5 +4,5 @@ subtitle: Projet algorithmique
 description: Description du projet 1
 layout: product
 image: awalé.png
+image ratio : 1by1
 ---
-
