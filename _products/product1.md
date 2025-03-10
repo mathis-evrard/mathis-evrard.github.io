@@ -20,3 +20,4 @@ Les objectifs étaient de créer une application fonctionnelle permettant :
 • Une gestion complète des règles de l'awalé, y compris les mécanismes de capture et d'arrêt de jeu. 
 
 • Une interface avec l'historique des parties. 
+<iframe src="https://www.jdoodle.com/embed/v0/3g2a" width="100%" height="500px"></iframe>
