@@ -2,6 +2,6 @@
 title: Mes réalisations
 subtitle: Découvrez mes réalisations
 layout: product-category
-show_hero: false
+show_hero: true
 hero_height: is-small
 ---
