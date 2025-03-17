@@ -1,10 +1,10 @@
 ---
 title: Projet 2
-subtitle: Projet électronique
+subtitle: Projet prototypage
 layout: product
 image: https://via.placeholder.com/640x480
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent mauris lacus, semper vel massa mattis, ullamcorper auctor libero. Maecenas sit amet ultricies erat. Curabitur eleifend est eget sagittis convallis. Mauris sit amet placerat lacus. Pellentesque vehicula quis massa ac lacinia. Vivamus gravida bibendum tincidunt. Sed eget augue vitae ligula ultricies lacinia a eget augue. Donec vulputate metus ut ante scelerisque sollicitudin. Nullam commodo suscipit venenatis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Ut tristique pharetra mollis. 
+ce support de plaque chauffante à induction est créé pour aider les personnes aveugles pour savoir où placer sa casserole sur le bon emplacement. C'est difficile de voir où placer la casserole sur la plaque chauffante car ils n’ont pas de délimitation et si l'on est aveugle on ne sait pas où le placer.
 
-Praesent ut accumsan mauris. Maecenas tempus finibus lectus, in iaculis mauris lobortis ac. Proin ipsum erat, imperdiet at arcu a, egestas hendrerit turpis. Suspendisse in lectus lacinia, sollicitudin felis non, auctor urna. Ut lacinia, ligula a cursus fringilla, diam arcu semper orci, quis sagittis eros quam nec ante.
+Sur la photo se trouve juste un prototype réalisé en bois découpé en 4 parties avec une découpe laser.
