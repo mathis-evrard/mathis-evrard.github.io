@@ -2,7 +2,7 @@
 title: Projet 1
 subtitle: Projet mathématique
 layout: product
-image: https://via.placeholder.com/640x480
+image: /math.jpg
 ---
 
 
