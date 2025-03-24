@@ -1,6 +1,6 @@
 ---
-title: Projet 2
-subtitle: Projet électronique
+title: Projet électronique
+subtitle: 
 layout: product
 image: /plaque.jpg
 ---
