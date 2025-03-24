@@ -1,6 +1,6 @@
 ---
-title: Projet 2
-subtitle: Projet prototypage
+title: Projet prototypage
+subtitle: 
 layout: product
 image: /plaque.jpg
 ---
