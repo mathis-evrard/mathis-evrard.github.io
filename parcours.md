@@ -52,11 +52,6 @@ Job d'été, travail polyvalent, 2 mois
 * Travail de déshérbage. 
 * Conditionnement des produits.
 
-`20XX` **Association, description de l’asso., taille**
-
-_Intitulé du poste dans une équipe de XX membres_
-* Description des missions (outils utilisés, réalisations, chiffres clés)
-
 ## Compétences
 
 Langues
