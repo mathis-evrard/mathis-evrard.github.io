@@ -1,6 +1,6 @@
 ---
-title: Projet 1
-subtitle: Projet algorithmique
+title: Projet mathématiques
+subtitle: 
 layout: product
 image: /math.jpg
 ---
