@@ -23,24 +23,9 @@ Bac [Maths, Physique, SVT], mention Bien, Montreuil-Sur-Mer
 
 ## Expériences
 
-`2024` **Projet d’étude mathématiques – Etude de la chute d'un corps**
+`2023(3mois)-2024(3mois)-2025(2mois)` **Patisserie Pasquier, Agro-Alimentaire, Usine, site de 500 employés, Vron, 80120**
 
-_Réalisé en équipe de 3 étudiants_
-* faire une étude mathématiques poussée sur un sujet concret au choix. 
-* utilisation tableur afin de réaliser les calculs à l'aide de la méthode de Runge-Kutta.
-* passage a l'oral afin de présenter notre étude. 
-
-
-`2024` **Patisserie Pasquier, Agro-Alimentaire, Usine, site de 500 employés, Vron, 80120**
-
-Employé polyvalent, 3 mois
-* Tout type de mission (nettoyage, production, conditionnement, ...).
-* Respect des règles d'hygiène stricte de ce secteur. 
-* Travail sur ligne, en équipe. 
-
-`2023` **Patisserie Pasquier, Agro-Alimentaire, Usine, site de 500 employés, Vron, 80120**
-
-Employé polyvalent, 3 mois
+Employé polyvalent
 * Tout type de mission (nettoyage, production, conditionnement, ...).
 * Respect des règles d'hygiène stricte de ce secteur. 
 * Travail sur ligne, en équipe. 
@@ -52,6 +37,16 @@ Job d'été, travail polyvalent, 2 mois
 * Travail de déshérbage. 
 * Conditionnement des produits.
 
+## Projet académique
+
+`2024` **Projet d’étude mathématiques – Etude de la chute d'un corps**
+
+_Réalisé en équipe de 3 étudiants_
+* faire une étude mathématiques poussée sur un sujet concret au choix. 
+* utilisation tableur afin de réaliser les calculs à l'aide de la méthode de Runge-Kutta.
+* passage a l'oral afin de présenter notre étude. 
+
+
 ## Compétences
 
 Langues
@@ -61,12 +56,10 @@ Langues
 Informatique
 * Traitement de texte
 * logiciel de calcul( Excel)
-* Langage C, markdown
+* Langage C
 
 ## Centres d’intérêt
 
 Football
-* Pratique en club 
-
 Cuisine
-* Préparer de bons plats
+musique
