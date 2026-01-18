@@ -60,6 +60,6 @@ Informatique
 
 ## Centres d’intérêt
 
-*Football
-*Cuisine
-*musique
+* Football
+* Cuisine
+* musique
