@@ -3,7 +3,7 @@ layout: page
 title: Mon parcours
 description: "Ceci est un exemple de CV que vous pouvez générer par vous-même"
 menubar: menu_bar
-download_cv: CV Evrard Mathis.pdf
+download_cv: CV Evrard Mathis(6).pdf
 ---
 
 ## Formation 
