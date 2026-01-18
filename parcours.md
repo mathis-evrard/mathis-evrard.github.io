@@ -51,7 +51,7 @@ _Réalisé en équipe de 3 étudiants_
 
 Langues
 * LV1 (Anglais) : B1 
-* LV2 (Espagnol) : A1
+* LV2 (Espagnol) : B1
 
 Informatique
 * Traitement de texte
