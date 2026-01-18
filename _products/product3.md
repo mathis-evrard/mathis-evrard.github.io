@@ -2,7 +2,7 @@
 title: Machine That Draws(en cours)
 subtitle: 
 layout: product
-image: /MTD.png
+image: /MTD.webp
 ---
 
 
