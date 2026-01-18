@@ -10,10 +10,10 @@ hero_image_ratio: is-1by10
 
 
 # Mathis EVRARD
-Elève ingénieur en Prépa intégrée. 
+Elève ingénieur en 2ème année de Prépa intégrée. 
 
 
-Disponible 3 mois à partir du 16 juin
+recherche d'alternance ingénieur pour 3 ans. 
 
 [mathis.evrard@etu.unilasalle.fr](mailto:mathis.evrard@etu.unilasalle.fr)
 
