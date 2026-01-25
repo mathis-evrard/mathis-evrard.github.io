@@ -30,7 +30,7 @@ Agent de production
 * Respect des règles d'hygiène stricte de ce secteur. 
 * Travail sur ligne, en équipe.
 
-  `2025` **Eurovanille, Agro-Alimentaire, Usine, site de 150 employés, Gouy-Saint-André, 62870** 
+ `2025` **Eurovanille, Agro-Alimentaire, Usine, site de 150 employés, Gouy-Saint-André, 62870** 
 
 Stage ouvrier, agent de production, 1 mois
 * 	Travail de conditionnement
