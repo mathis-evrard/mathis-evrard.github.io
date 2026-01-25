@@ -2,7 +2,7 @@
 title: robot OTTO 
 subtitle: 
 layout: product
-image: /20260123_134043.heic
+image: /otto.PNG
 ---
 
 
