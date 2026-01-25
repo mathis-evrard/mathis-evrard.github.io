@@ -2,8 +2,8 @@
 title: Machine That Draws(en cours)
 subtitle: 
 layout: product
-image: /MTD.webp
+image: /20260123_134043.heic
 ---
 
 
-Projet de groupe dont le but est de réaliser une machine capable de dessiner.
+Projet de groupe dont le but est de réaliser une machine capable de dessiner par équipe de 5 étudiants.
