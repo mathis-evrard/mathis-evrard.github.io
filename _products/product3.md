@@ -2,7 +2,7 @@
 title: Machine That Draws(en cours)
 subtitle: 
 layout: product
-image: /20260123_134043.jpeg
+image: /20260123_134043.jpg
 ---
 
 
