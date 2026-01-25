@@ -25,10 +25,17 @@ Bac [Maths, Physique, SVT], mention Bien, Montreuil-Sur-Mer
 
 `2023(3mois)-2024(3mois)-2025(2mois)` **Patisserie Pasquier, Agro-Alimentaire, Usine, site de 500 employés, Vron, 80120**
 
-Employé polyvalent
+Agent de production
 * Tout type de mission (nettoyage, production, conditionnement, ...).
 * Respect des règles d'hygiène stricte de ce secteur. 
-* Travail sur ligne, en équipe. 
+* Travail sur ligne, en équipe.
+
+  `2025` **Eurovanille, Agro-Alimentaire, Usine, site de 150 employés, Gouy-Saint-André, 62870** 
+
+Stage ouvrier, agent de production, 1 mois
+* 	Travail de conditionnement
+* 	Contrôle visuelle
+* 	Manipulation de la vanille sous différentes formes 
 
   `2021` **EARL Dransart, Agriculture BIO, Petite ferme familiale, Gouy-Saint-André, 62870**
 
@@ -38,6 +45,20 @@ Job d'été, travail polyvalent, 2 mois
 * Conditionnement des produits.
 
 ## Projet académique
+
+`2026` **Projet Machine That Draws (en cours)  – machine capable de dessiner**
+
+_Réalisé en équipe de 5 étudiants_
+* étude des différentes possibilités de machines. 
+* mise en oeuvres des qualités manuelles, de réflexion, conception 3D.  
+* participation à la journée des projets.  
+
+`2025` **Projet robot OTTO – robot mobile**
+
+_Réalisé en équipe de 3 étudiants_
+* modifier un robot selon l'épreuve principal choisie. 
+* mise en place d'un code dans le but de differents mouvements. 
+* participation à la journée des projets.  
 
 `2024` **Projet d’étude mathématiques – Etude de la chute d'un corps**
 
