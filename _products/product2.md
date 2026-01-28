@@ -10,5 +10,5 @@ Projet de groupe dont le but est de réaliser un robot capable de se mouvoir par
 notre robot a remporté la compétition de sumo qui avait pour but de faire tomber l'adversaire. 
 
 ---
-vidéo: / finale.png
+vidéo: /Snapchat-1443368972_1.mp4
 ---
