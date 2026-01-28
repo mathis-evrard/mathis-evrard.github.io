@@ -12,4 +12,4 @@ notre robot a remporté la compétition de sumo qui avait pour but de faire tomb
 ---
 Voici notre robot qui a été sacré champion dans la catégorie robot Sumo.
 ---
-<video src="/Snapchat-1443368972_1.mp4" autoplay muted loop></video>
+<video src="/Snapchat-1443368972_1.mp4" autoplay muted loop width="200" height=auto ></video>
