@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Mon parcours
-description: "Ceci est un exemple de CV que vous pouvez générer par vous-même"
+description: ""
 menubar: menu_bar
 download_cv: CV Evrard_Mathis.pdf
 ---
@@ -85,3 +85,8 @@ Informatique
 * Football
 * Cuisine
 * musique
+
+## Engagement associatif
+
+* Menbre de Uni'Com en charge de la communication de l'école (réaliser des visites et des forums pour promouvoir nos formations)
+* Donneur de plasma toutes les 2 semaines : engagement non officiel mais auquel je tiens
